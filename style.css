@@ -1,0 +1,12 @@
+.text-center {
+    text-align: center;
+}
+
+* {
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.text-bolder {
+    font-weight: bolder;
+}
